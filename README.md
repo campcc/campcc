@@ -7,14 +7,11 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: work email [monchli@tencent.com]() | community [juejin.cn/campcc](https://juejin.cn/user/3861140566717214)
 - ⚡ Fun fact: I create a front end repository here [FED Repository](https://campcc.github.io/repository/)
 
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=campcc&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=campcc&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>
-</details>
+⭐ **GitHub Stats**
+<!-- GitHub Stats -->
+<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=campcc&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+<!-- GitHub Top Language -->
+ <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=campcc&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
