@@ -13,7 +13,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [可能是最好的跨域解决方案了... ...](https://juejin.cn/post/6844903992057659400)
-- [可能是最好的 this 解析了... ...](https://juejin.cn/post/6844904182814621709)
-- [源码拾遗系列(一)：Axios](https://juejin.cn/post/6950244736556859405)
+- [The ways to solve cross domain](https://juejin.cn/post/6844903992057659400)
+- [May the best analysis of JavaScript this](https://juejin.cn/post/6844904182814621709)
+- [Source code analysis of Axios](https://juejin.cn/post/6950244736556859405)
 <!-- BLOG-POST-LIST:END -->
