@@ -1,5 +1,6 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I opensource stuff and break things :rofl:
+
+I am MonchLee(18 y.o) ! 😎
 
 - 🔭 I’m currently working on WeChat mini program
 - 🌱 I’m currently learning **TypeScript**, **Flutter**, **PWA**
