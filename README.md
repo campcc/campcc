@@ -14,6 +14,7 @@ I am MonchLee(18 y.o) ! 😎
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [A complate guide to CSS ellipsis multiline](https://github.com/campcc/blog/issues/27)
 - [A complete guide to Tree Shaking](https://github.com/campcc/blog/issues/26)
 - [All things you need to know about Responsive Design Layout](https://github.com/campcc/blog/issues/24)
 - [The ways to solve cross domain](https://github.com/campcc/blog/issues/15)
