@@ -2,7 +2,7 @@
 
 I am MonchLee(18 y.o) ! 😎
 
-- 🔭 I’m currently working on WeChat mini program
+- 🔭 I’m currently working on **WeChat mini program**
 - 🌱 I’m currently learning **TypeScript**, **Flutter**, **PWA**
 - 💬 Ask me about anything related to **Javascript/Performance Optimization** or **React/Vue/React Native**
 - 📫 How to reach me: work email <a href="mailto:monchli@tencent.com">monchli@tencent.com</a> | community [juejin.cn/campcc](https://juejin.cn/user/3861140566717214/posts)
