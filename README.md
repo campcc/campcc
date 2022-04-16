@@ -14,6 +14,7 @@ I am MonchLee(18 y.o) ! 😎
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Momentum-based scrolling in miniprogram](https://github.com/campcc/blog/issues/34)
 - [A complate guide to CSS ellipsis multiline](https://github.com/campcc/blog/issues/27)
 - [A complete guide to Tree Shaking](https://github.com/campcc/blog/issues/26)
 - [All things you need to know about Responsive Design Layout](https://github.com/campcc/blog/issues/24)
@@ -21,6 +22,11 @@ I am MonchLee(18 y.o) ! 😎
 - [Source code analysis of Axios](https://github.com/campcc/blog/issues/23)
 - [May the best analysis of JavaScript this](https://github.com/campcc/blog/issues/19)
 - [May the best analysis of BFC](https://github.com/campcc/blog/issues/16)
+<!-- BLOG-POST-LIST:END -->
+
+📖 **Browser**
+<!-- BLOG-POST-LIST:START -->
+- [The Multi-process architecture of Chrome](https://github.com/campcc/blog/issues/36)
 <!-- BLOG-POST-LIST:END -->
 
 🍔 **Perfitional React**
