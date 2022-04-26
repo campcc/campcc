@@ -27,6 +27,7 @@ I am MonchLee(18 y.o) ! 😎
 📖 **Browser**
 <!-- BLOG-POST-LIST:START -->
 - [The Multi-process architecture of Chrome](https://github.com/campcc/blog/issues/36)
+- [Browser rendering process](https://github.com/campcc/blog/issues/37)
 <!-- BLOG-POST-LIST:END -->
 
 🍔 **Perfitional React**
