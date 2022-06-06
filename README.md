@@ -14,6 +14,7 @@ I am MonchLee(18 y.o) ! 😎
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript base mechanism: Execution Context](https://github.com/campcc/blog/issues/38)
 - [Momentum-based scrolling in miniprogram](https://github.com/campcc/blog/issues/34)
 - [A complate guide to CSS ellipsis multiline](https://github.com/campcc/blog/issues/27)
 - [A complete guide to Tree Shaking](https://github.com/campcc/blog/issues/26)
