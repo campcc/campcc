@@ -35,4 +35,5 @@ I am MonchLee(18 y.o) ! 😎
 🍔 **Perfitional React**
 <!-- REACT POSTS:START -->
 - [React Preparation](https://github.com/campcc/blog/issues/44)
+- [React Architecture](https://github.com/campcc/blog/issues/45)
 <!-- REACT POSTS:END -->
