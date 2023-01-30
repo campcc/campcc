@@ -34,10 +34,5 @@ I am MonchLee(18 y.o) ! 😎
 
 🍔 **Perfitional React**
 <!-- REACT POSTS:START -->
-- [Guide](https://github.com/campcc/blog/issues/32)
-- [Perfitional React of JSX](https://github.com/campcc/blog/issues/28)
-- [Perfitional React of Lifecycle](https://github.com/campcc/blog/issues/29)
-- [Perfitional React of Data Flow](https://github.com/campcc/blog/issues/30)
-- [Perfitional React of Hooks Motivation](https://github.com/campcc/blog/issues/31)
-- [Perfitional React of Why Hooks?](https://github.com/campcc/blog/issues/33)
+- [React Preparation](https://github.com/campcc/blog/issues/44)
 <!-- REACT POSTS:END -->
