@@ -37,4 +37,5 @@ I am MonchLee(18 y.o) ! 😎
 - [React Preparation](https://github.com/campcc/blog/issues/44)
 - [React Architecture](https://github.com/campcc/blog/issues/45)
 - [React Fiber Architecture](https://github.com/campcc/blog/issues/46)
+- [How React Fiber Tree Building](https://github.com/campcc/blog/issues/47)
 <!-- REACT POSTS:END -->
