@@ -31,16 +31,10 @@ I am MonchLee(18 y.o) ! 😎
 - [May the best analysis of BFC](https://github.com/campcc/blog/issues/16)
 <!-- BLOG-POST-LIST:END -->
 
-📖 **Browser**
-<!-- BLOG-POST-LIST:START -->
-- [The Multi-process architecture of Chrome](https://github.com/campcc/blog/issues/36)
-- [Browser rendering process](https://github.com/campcc/blog/issues/37)
-<!-- BLOG-POST-LIST:END -->
-
-🍔 **Perfitional React**
-<!-- REACT POSTS:START -->
-- [React Preparation](https://github.com/campcc/blog/issues/44)
-- [React Architecture](https://github.com/campcc/blog/issues/45)
-- [React Fiber Architecture](https://github.com/campcc/blog/issues/46)
-- [How React Fiber Tree Building](https://github.com/campcc/blog/issues/47)
-<!-- REACT POSTS:END -->
+📖 **FE News Weekly**
+<!-- FE-NEWS-WEEKLY:START -->
+- [Weekly 第 004 期: CSS Wrapped 2023、Safari 17.2、Netlify 2023 调查报告、Oxlint、Antd Mini 微信小程序](https://campcc.github.io/weekly/docs/issue-004)
+- [Weekly 第 003 期: RN 0.73、VSCode November 2023、StyleX 开源、Astro 4.0、Bento box 设计趋势、TinyLD](https://campcc.github.io/weekly/docs/issue-003)
+- [Weekly 第 002 期: Biome wins $20k、XState 5、Astro 4、Vectorizer.ai、编程语言发展史、10s 生成 LOGO](https://campcc.github.io/weekly/docs/issue-002)
+- [Weekly 第 001 期: 字节 Rsbuild 0.1、清华大学未来十大变革科技榜单、腾讯 ISUX 设计趋势速递、TypeScript 5.3](https://campcc.github.io/weekly/docs/issue-001)
+<!-- FE-NEWS-WEEKLY:END -->
