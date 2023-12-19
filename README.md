@@ -2,20 +2,15 @@
 
 I am MonchLee(18 y.o) ! 😎
 
-- 🔭 I’m currently working on **WeChat Mini Program**
+- 🔭 I’m currently working on **WeChat Mini Program, CRM**
 - 🌱 I’m currently learning **TypeScript**, **Flutter**, **PWA**
-- 🚀 I create the front-end technology news weekly [FE News Weekly ❤️](https://campcc.github.io/weekly/)
+- 🚀 I create the front-end technology news weekly called [FE News Weekly ❤️](https://campcc.github.io/weekly/)
 - 💬 Ask me about anything related to **Javascript/Performance Optimization** or **React/Vue/React Native**
-- 📫 How to reach me: work email <a href="mailto:monchli@tencent.com">monchli@tencent.com</a> | community [juejin.cn/campcc](https://juejin.cn/user/3861140566717214/posts)
+- 📫 How to reach me: work email <a href="mailto:monchlee51@gmail.com">monchlee51@gmail.com</a> | community [juejin.cn/monchlee](https://juejin.cn/user/3861140566717214/posts)
 - ⚡ Fun fact: I create a front end repository here [FED Repository](https://campcc.github.io/repository/)
-
-⭐ **GitHub Stats**
-<!-- GitHub Stats -->
-<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=campcc&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-
 - [How to elegantly update your complex state data in the era of Hooks](https://github.com/campcc/blog/issues/51)
 - [It's 2023, why aren't you using SWR yet?](https://github.com/campcc/blog/issues/52)
 - [Talking about React component communication again in 2023](https://github.com/campcc/blog/issues/49)
@@ -31,7 +26,7 @@ I am MonchLee(18 y.o) ! 😎
 - [May the best analysis of BFC](https://github.com/campcc/blog/issues/16)
 <!-- BLOG-POST-LIST:END -->
 
-📖 **FE News Weekly**
+🚀 **FE News Weekly**
 <!-- FE-NEWS-WEEKLY:START -->
 - [Weekly 第 004 期: CSS Wrapped 2023、Safari 17.2、Netlify 2023 调查报告、Oxlint、Antd Mini 微信小程序](https://campcc.github.io/weekly/docs/issue-004)
 - [Weekly 第 003 期: RN 0.73、VSCode November 2023、StyleX 开源、Astro 4.0、Bento box 设计趋势、TinyLD](https://campcc.github.io/weekly/docs/issue-003)
