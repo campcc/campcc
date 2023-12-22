@@ -6,7 +6,7 @@ I am MonchLee(18 y.o) ! 😎
 - 🌱 I’m currently learning **TypeScript**, **Flutter**, **PWA**
 - 🚀 I create the front-end technology news weekly called [FE News Weekly ❤️](https://campcc.github.io/weekly/)
 - 💬 Ask me about anything related to **Javascript/Performance Optimization** or **React/Vue/React Native**
-- 📫 How to reach me: work email <a href="mailto:monchlee51@gmail.com">monchlee51@gmail.com</a> | community [juejin.cn/monchlee](https://juejin.cn/user/3861140566717214/posts)
+- 📫 How to reach me: work email <a href="mailto:monchlee51@gmail.com">monchlee51@gmail.com</a> | community [juejin.cn/MonchLee](https://juejin.cn/user/3861140566717214/posts)
 - ⚡ Fun fact: I create a front end repository here [FED Repository](https://campcc.github.io/repository/)
 
 📕 **Latest Blog Posts**
