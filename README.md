@@ -11,6 +11,7 @@ I am MonchLee(18 y.o) ! 😎
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Frontend predictions for 2024](https://github.com/campcc/blog/issues/53)
 - [How to elegantly update your complex state data in the era of Hooks](https://github.com/campcc/blog/issues/51)
 - [It's 2023, why aren't you using SWR yet?](https://github.com/campcc/blog/issues/52)
 - [Talking about React component communication again in 2023](https://github.com/campcc/blog/issues/49)
